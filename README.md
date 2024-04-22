@@ -9,7 +9,7 @@ This repository serves as a comprehensive guide and demonstration of utilizing U
 3. [Key Features](#key-features)
 4. [Examples](#examples)
 
-**Introduction**  
+<ins>**Introduction**</ins>  
 
 UICollectionView is a versatile component in UIKit for displaying and managing collections of data. With SwiftUI, we can leverage the power of UICollectionView in a more declarative and intuitive way, thanks to the LazyVGrid and LazyHGrid views.  
 This repository explores various aspects of integrating UICollectionView in SwiftUI, covering topics such as:  
@@ -19,7 +19,7 @@ This repository explores various aspects of integrating UICollectionView in Swif
 - Dynamic data loading and updates  
 - Advanced layouts and animations
 
-**Getting Started**  
+<ins>**Getting Started**</ins>  
 
 To get started with this project, simply clone the repository to your local machine:  
 ```
@@ -27,7 +27,8 @@ git clone https://github.com/ProdevSoftware/CollectionSwiftUI.git
 ```
 Ensure you have Xcode installed and open the project file "CollectionSwiftUI.xcodeproj". From there, you can explore the code examples provided and run the SwiftUI previews to see the components in action.  
 
-**Key Features**  
+<ins>**Key Features**</ins>
+
 **Basic Setup:**  
 Learn how to set up a UICollectionView in SwiftUI and populate it with data.  
 
@@ -46,7 +47,7 @@ Experiment with different layouts including grid, list, and custom layouts.
 **Animations:**  
 Add animations to enhance the user experience when items are inserted, deleted, or updated.  
 
-**Examples**  
+<ins>**Examples**</ins>  
 The repository includes several examples demonstrating different aspects of using UICollectionView in SwiftUI. Each example is contained within its own folder and comes with detailed explanations in the accompanying README.md file.  
 
 **Example 1:** Basic setup and data binding  
