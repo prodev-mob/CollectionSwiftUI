@@ -58,6 +58,11 @@ The repository includes several examples demonstrating different aspects of usin
 
 Feel free to explore these examples to gain a better understanding of how to effectively use UICollectionView in your SwiftUI projects.  
 
+![Simulator Screenshot - iPhone 15 - 2024-05-28 at 12 40 48](https://github.com/ProdevSoftware/CollectionSwiftUI/assets/97152083/4e5c1d77-1da4-41af-a50f-ba0c2baa2f84)
+![Simulator Screenshot - iPhone 15 - 2024-05-28 at 12 40 40](https://github.com/ProdevSoftware/CollectionSwiftUI/assets/97152083/9d760adc-9fe8-4f4f-8831-46fc90a3f91f)
+![Simulator Screenshot - iPhone 15 - 2024-05-28 at 12 40 37](https://github.com/ProdevSoftware/CollectionSwiftUI/assets/97152083/568dc86b-057e-44db-b67c-a899c900de02)
+
+
 ------------------------------------------------------  
 
 **Happy Learning 🚀**
